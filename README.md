@@ -9,8 +9,10 @@ Customer Personality Analysis is a detailed analysis of a company’s ideal cust
 # Attributes  
 
 # People  
-ID: Customer's unique identifier \n
+ID: Customer's unique identifier 
+
 Year_Birth: Customer's birth year 
+
 Education: Customer's education level 
 Marital_Status: Customer's marital status 
 Income: Customer's yearly household income 
